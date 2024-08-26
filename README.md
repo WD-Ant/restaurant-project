@@ -1,7 +1,7 @@
-#Restaurant Project
+# Restaurant Project
 
-This is a basic restaurant website project
+This is a basic restaurant website project.
 
-#Preview
+# Preview
 
 Live Website: https://restaurant-project-sage.vercel.app/
